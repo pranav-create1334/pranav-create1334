@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*b21FyqUbowHYAOQDXH0tDw.jpeg)
+![MasterHead](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*b21FyqUbowHYAOQDXH0tDw.jpeg)
 <h1 align="center">Hi 👋, I'm Pranav Subhash Kusalkar</h1>
 <h3 align="center">A passionate Spring Boot developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://simpleprogrammer.com/wp-content/uploads/2022/08/Programmer-Goals.jpg">
